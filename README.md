@@ -185,7 +185,7 @@ This includes, without limitation:
 * Offering TheoLibre as part of a paid service
 * Using TheoLibre as part of a commercial hosted service
 
-See [`LICENSE`](LICENSE) for the complete license terms.
+See [`LICENSE.md`](LICENSE.md) for the complete license terms.
 
 ## Privacy
 
@@ -217,7 +217,7 @@ TheoLibre does not claim ownership of publications, videos, audio, images, or ot
 
 The TheoLibre source code is licensed separately under the **PolyForm Noncommercial License 1.0.0**.
 
-See [`LICENSE`](LICENSE).
+See [`LICENSE.md`](LICENSE.md).
 
 ## Reporting Copyright or Intellectual Property Concerns
 
@@ -321,7 +321,7 @@ The project makes no representation that every possible use of the application o
 
 TheoLibre is licensed under the **PolyForm Noncommercial License 1.0.0**.
 
-See [`LICENSE`](LICENSE) for the complete license terms.
+See [`LICENSE.md`](LICENSE.md) for the complete license terms.
 
 ## Related Terms of Use
 
